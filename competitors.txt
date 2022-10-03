@@ -1,1 +1,1 @@
-1:Jean-Eudes-le-retour/inverted-pendulum-really-hidden
+1:Jean-Eudes-le-retour/inverted-pendulum-benchmark-hidden
